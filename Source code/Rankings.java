@@ -1,5 +1,5 @@
 /*
- * Made by Piet S. (2015)
+ * Made by Piet Smet (2015)
  * 
  * Info: Retrieves the latest World of Tank results and returns statistics from participants based on team size.
  * 
@@ -73,8 +73,8 @@ public class Rankings {
 			    	String cupURL = cupRankingPrefix+cupID+cupRankingSuffix;
 			    	
 			    	// Retrieve the cup rankings from ESL API (non-blocking)
-					futureCallback = asyncHttpClient.prepareGet(cupURL).execute();
-					JSONObject cupRankingJson = new JSONObject(futureCallback.get().getResponseBody().trim());
+			    	futureCallback = asyncHttpClient.prepareGet(cupURL).execute();
+			    	JSONObject cupRankingJson = new JSONObject(futureCallback.get().getResponseBody().trim());
 					
 					// Go through each participant in the rankings
 					if (!cupRankingJson.has("ranking") || !(cupRankingJson.get("ranking") instanceof JSONArray)) // cant properly process this, skip it
