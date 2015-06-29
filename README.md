@@ -10,7 +10,6 @@ Development environment:
  *    Web server used: Apache Tomcat 7.0.62
  *    Java version: 1.8.0_45
  *    IDE: Eclipse
- * 
 
 External libraries:
  *    asm v3.3.1
