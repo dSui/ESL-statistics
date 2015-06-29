@@ -46,7 +46,6 @@ public class Rankings {
 		AsyncHttpClient asyncHttpClient = null;
 
 		try {
-			
 			// Retrieve the data from ESL API (non-blocking through the ning AsyncHttpClient library) and parse as JSON using org.json
 			asyncHttpClient = new AsyncHttpClient();
 			Future<Response> futureCallback = asyncHttpClient.prepareGet(leagueAPICall).execute();
@@ -59,20 +58,20 @@ public class Rankings {
 			// Iterate through all cups (Limited to 25 in API request)
 			Iterator<?> cupIDs = cupListJson.keys();
 			while( cupIDs.hasNext() ) {
-			    String cupKey = (String)cupIDs.next();
-			    
-			    // process a cup object but only if it's a valid JSON object
-			    if ( cupListJson.get(cupKey) instanceof JSONObject ) {
-			    	JSONObject cupInfoJson = cupListJson.getJSONObject(cupKey);
-			    	
-			    	if (!cupInfoJson.has("id") || !cupInfoJson.has("teamSize")) // cant properly process this, skip it
-			    		continue;
-			    	
-			    	int cupID = cupInfoJson.getInt("id");
-			    	int teamSize = cupInfoJson.getInt("teamSize");
-			    	String cupURL = cupRankingPrefix+cupID+cupRankingSuffix;
-			    	
-			    	// Retrieve the cup rankings from ESL API (non-blocking)
+				String cupKey = (String)cupIDs.next();
+				
+				// process a cup object but only if it's a valid JSON object
+				if ( cupListJson.get(cupKey) instanceof JSONObject ) {
+					JSONObject cupInfoJson = cupListJson.getJSONObject(cupKey);
+				
+					if (!cupInfoJson.has("id") || !cupInfoJson.has("teamSize")) // cant properly process this, skip it
+						continue;
+				
+					int cupID = cupInfoJson.getInt("id");
+					int teamSize = cupInfoJson.getInt("teamSize");
+					String cupURL = cupRankingPrefix+cupID+cupRankingSuffix;
+				
+					// Retrieve the cup rankings from ESL API (non-blocking)
 					futureCallback = asyncHttpClient.prepareGet(cupURL).execute();
 					JSONObject cupRankingJson = new JSONObject(futureCallback.get().getResponseBody().trim());
 					
@@ -80,32 +79,31 @@ public class Rankings {
 					if (!cupRankingJson.has("ranking") || !(cupRankingJson.get("ranking") instanceof JSONArray)) // cant properly process this, skip it
 						continue;
 					JSONArray rankingsArrayJson = cupRankingJson.getJSONArray("ranking");
-					
-					for (int i = 0; i < rankingsArrayJson.length(); i++) {
 						
-						if (!(rankingsArrayJson.get(i) instanceof JSONObject)) // noticed in other game rankings that certain cups are not always played and then ranking is null
+					for (int i = 0; i < rankingsArrayJson.length(); i++) {
+							
+						if (!(rankingsArrayJson.get(i) instanceof JSONObject)) // cant properly process this, skip it
 							continue;
 						JSONObject rankInfo = rankingsArrayJson.getJSONObject(i);
-						
+							
 						// depending on team size the API returns "team" or "user"
 						String key = (teamSize == 1 ? "user" : "team");
 						if (!rankInfo.has(key) || !(rankInfo.get(key) instanceof JSONObject))  // cant properly process this, skip it
 							continue;
 						JSONObject participant = rankInfo.getJSONObject(key);
-						
+							
 						if (!participant.has("id"))  // cant properly process this, skip it
 							continue;
 						String participantID = participant.getString("id");
-						
+							
 						// Update the count of this participant in leagues with this teamsize
 						addParticipantCount(participantID, teamSize, statistics);
-
 					}
-			    }
+				}
 			}
-			
+				
 			response = generateOutput(statistics);
-			
+				
 		} catch ( Exception e) {
 			e.printStackTrace();
 			response = "[ { \"Message\" : \"Something went wrong\", \"Details\" : \""+e.getMessage()+"\" } ]"; // return an array containing 1 error message
@@ -139,19 +137,19 @@ public class Rankings {
 	
 	// Increment the counter for a participant with {id} for leagues with {teamsize}
 	private int addParticipantCount(String id, int teamSize, HashMap<String, HashMap<String, Integer>> statistics) {
-    	String teamSizeKey = String.valueOf(teamSize); // I prefer working with Strings as keys in HashMaps instead of <Integer, Integer> (or a List indexed by teamSize)
-    	
-    	if (!statistics.containsKey(id))
+		String teamSizeKey = String.valueOf(teamSize); // I prefer working with Strings as keys in HashMaps instead of <Integer, Integer> (or a List indexed by teamSize)
+		
+		if (!statistics.containsKey(id))
 			statistics.put(id, new HashMap<String,Integer>());
-    	
-    	int count = 0;
-    	if (statistics.get(id).containsKey(teamSizeKey))
-    		count = statistics.get(id).get(teamSizeKey);
-    	count++;
-    	
-    	statistics.get(id).put(teamSizeKey, count);
-    	
-    	return count;
+			
+		int count = 0;
+		if (statistics.get(id).containsKey(teamSizeKey))
+			count = statistics.get(id).get(teamSizeKey);
+		count++;
+		
+		statistics.get(id).put(teamSizeKey, count);
+		
+		return count;
 	}
 
 }
