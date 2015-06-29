@@ -1,0 +1,1698 @@
+[
+ {
+  "contestantId": 9198683,
+  "cupsPlayed": {"3": 1}
+ },
+ {
+  "contestantId": 6539662,
+  "cupsPlayed": {"3": 1}
+ },
+ {
+  "contestantId": 8478484,
+  "cupsPlayed": {"1": 1}
+ },
+ {
+  "contestantId": 8403806,
+  "cupsPlayed": {"3": 1}
+ },
+ {
+  "contestantId": 8220808,
+  "cupsPlayed": {"3": 1}
+ },
+ {
+  "contestantId": 7994830,
+  "cupsPlayed": {"1": 1}
+ },
+ {
+  "contestantId": 8813638,
+  "cupsPlayed": {"1": 1}
+ },
+ {
+  "contestantId": 5361371,
+  "cupsPlayed": {"1": 1}
+ },
+ {
+  "contestantId": 8057524,
+  "cupsPlayed": {"3": 1}
+ },
+ {
+  "contestantId": 9013109,
+  "cupsPlayed": {"1": 1}
+ },
+ {
+  "contestantId": 8570255,
+  "cupsPlayed": {"7": 2}
+ },
+ {
+  "contestantId": 8481300,
+  "cupsPlayed": {"3": 1}
+ },
+ {
+  "contestantId": 8354675,
+  "cupsPlayed": {"1": 1}
+ },
+ {
+  "contestantId": 8561543,
+  "cupsPlayed": {"3": 1}
+ },
+ {
+  "contestantId": 8581015,
+  "cupsPlayed": {"3": 1}
+ },
+ {
+  "contestantId": 8365555,
+  "cupsPlayed": {"7": 1}
+ },
+ {
+  "contestantId": 9001481,
+  "cupsPlayed": {"7": 1}
+ },
+ {
+  "contestantId": 6102345,
+  "cupsPlayed": {"1": 1}
+ },
+ {
+  "contestantId": 9173247,
+  "cupsPlayed": {"7": 1}
+ },
+ {
+  "contestantId": 9061690,
+  "cupsPlayed": {"3": 1}
+ },
+ {
+  "contestantId": 8586811,
+  "cupsPlayed": {"7": 1}
+ },
+ {
+  "contestantId": 7775962,
+  "cupsPlayed": {"1": 1}
+ },
+ {
+  "contestantId": 8994106,
+  "cupsPlayed": {"1": 1}
+ },
+ {
+  "contestantId": 8341215,
+  "cupsPlayed": {"3": 2}
+ },
+ {
+  "contestantId": 8086065,
+  "cupsPlayed": {"1": 1}
+ },
+ {
+  "contestantId": 8894422,
+  "cupsPlayed": {"3": 2}
+ },
+ {
+  "contestantId": 8767635,
+  "cupsPlayed": {"3": 1}
+ },
+ {
+  "contestantId": 8434338,
+  "cupsPlayed": {"3": 1}
+ },
+ {
+  "contestantId": 8893699,
+  "cupsPlayed": {"1": 1}
+ },
+ {
+  "contestantId": 8618731,
+  "cupsPlayed": {"7": 2}
+ },
+ {
+  "contestantId": 8880386,
+  "cupsPlayed": {"3": 1}
+ },
+ {
+  "contestantId": 7978579,
+  "cupsPlayed": {"1": 1}
+ },
+ {
+  "contestantId": 7600209,
+  "cupsPlayed": {"3": 2}
+ },
+ {
+  "contestantId": 9129796,
+  "cupsPlayed": {"7": 2}
+ },
+ {
+  "contestantId": 9050665,
+  "cupsPlayed": {"7": 1}
+ },
+ {
+  "contestantId": 4841611,
+  "cupsPlayed": {"1": 1}
+ },
+ {
+  "contestantId": 9178990,
+  "cupsPlayed": {"3": 1}
+ },
+ {
+  "contestantId": 8639305,
+  "cupsPlayed": {"1": 2}
+ },
+ {
+  "contestantId": 9131984,
+  "cupsPlayed": {"1": 1}
+ },
+ {
+  "contestantId": 8413941,
+  "cupsPlayed": {"1": 1}
+ },
+ {
+  "contestantId": 9175126,
+  "cupsPlayed": {"3": 2}
+ },
+ {
+  "contestantId": 8615286,
+  "cupsPlayed": {"1": 1}
+ },
+ {
+  "contestantId": 8765270,
+  "cupsPlayed": {"1": 1}
+ },
+ {
+  "contestantId": 8834413,
+  "cupsPlayed": {"1": 1}
+ },
+ {
+  "contestantId": 7946835,
+  "cupsPlayed": {"7": 2}
+ },
+ {
+  "contestantId": 9051301,
+  "cupsPlayed": {"7": 1}
+ },
+ {
+  "contestantId": 8387556,
+  "cupsPlayed": {"1": 1}
+ },
+ {
+  "contestantId": 781625,
+  "cupsPlayed": {"7": 2}
+ },
+ {
+  "contestantId": 8870353,
+  "cupsPlayed": {"3": 2}
+ },
+ {
+  "contestantId": 8823402,
+  "cupsPlayed": {"3": 1}
+ },
+ {
+  "contestantId": 9192933,
+  "cupsPlayed": {"3": 1}
+ },
+ {
+  "contestantId": 8671396,
+  "cupsPlayed": {"3": 1}
+ },
+ {
+  "contestantId": 9184080,
+  "cupsPlayed": {"3": 1}
+ },
+ {
+  "contestantId": 8410785,
+  "cupsPlayed": {"3": 2}
+ },
+ {
+  "contestantId": 8509288,
+  "cupsPlayed": {"7": 1}
+ },
+ {
+  "contestantId": 9083272,
+  "cupsPlayed": {"3": 2}
+ },
+ {
+  "contestantId": 8934395,
+  "cupsPlayed": {"3": 1}
+ },
+ {
+  "contestantId": 9188573,
+  "cupsPlayed": {"7": 1}
+ },
+ {
+  "contestantId": 8964901,
+  "cupsPlayed": {"1": 1}
+ },
+ {
+  "contestantId": 9141882,
+  "cupsPlayed": {"3": 1}
+ },
+ {
+  "contestantId": 9059149,
+  "cupsPlayed": {"3": 1}
+ },
+ {
+  "contestantId": 9113037,
+  "cupsPlayed": {"3": 1}
+ },
+ {
+  "contestantId": 8204237,
+  "cupsPlayed": {"7": 1}
+ },
+ {
+  "contestantId": 9177680,
+  "cupsPlayed": {"3": 1}
+ },
+ {
+  "contestantId": 7579463,
+  "cupsPlayed": {"1": 1}
+ },
+ {
+  "contestantId": 8952921,
+  "cupsPlayed": {"7": 2}
+ },
+ {
+  "contestantId": 7964156,
+  "cupsPlayed": {"1": 1}
+ },
+ {
+  "contestantId": 7467998,
+  "cupsPlayed": {"3": 1}
+ },
+ {
+  "contestantId": 9177204,
+  "cupsPlayed": {"3": 1}
+ },
+ {
+  "contestantId": 9172113,
+  "cupsPlayed": {"7": 2}
+ },
+ {
+  "contestantId": 8958490,
+  "cupsPlayed": {"1": 1}
+ },
+ {
+  "contestantId": 9042612,
+  "cupsPlayed": {"3": 1}
+ },
+ {
+  "contestantId": 9199593,
+  "cupsPlayed": {"3": 1}
+ },
+ {
+  "contestantId": 7408906,
+  "cupsPlayed": {"1": 1}
+ },
+ {
+  "contestantId": 8814947,
+  "cupsPlayed": {"3": 1}
+ },
+ {
+  "contestantId": 8897734,
+  "cupsPlayed": {"3": 1}
+ },
+ {
+  "contestantId": 8821442,
+  "cupsPlayed": {"1": 1}
+ },
+ {
+  "contestantId": 9179511,
+  "cupsPlayed": {"3": 1}
+ },
+ {
+  "contestantId": 8799020,
+  "cupsPlayed": {"1": 1}
+ },
+ {
+  "contestantId": 8707516,
+  "cupsPlayed": {"1": 1}
+ },
+ {
+  "contestantId": 9040680,
+  "cupsPlayed": {"1": 1}
+ },
+ {
+  "contestantId": 9002626,
+  "cupsPlayed": {"3": 1}
+ },
+ {
+  "contestantId": 8856899,
+  "cupsPlayed": {"3": 1}
+ },
+ {
+  "contestantId": 8995403,
+  "cupsPlayed": {"1": 1}
+ },
+ {
+  "contestantId": 9188230,
+  "cupsPlayed": {"1": 1}
+ },
+ {
+  "contestantId": 7234897,
+  "cupsPlayed": {"3": 1}
+ },
+ {
+  "contestantId": 8867666,
+  "cupsPlayed": {"3": 1}
+ },
+ {
+  "contestantId": 9201731,
+  "cupsPlayed": {"3": 1}
+ },
+ {
+  "contestantId": 7977204,
+  "cupsPlayed": {"7": 1}
+ },
+ {
+  "contestantId": 8163760,
+  "cupsPlayed": {"3": 1}
+ },
+ {
+  "contestantId": 8926681,
+  "cupsPlayed": {"3": 1}
+ },
+ {
+  "contestantId": 7810905,
+  "cupsPlayed": {"3": 1}
+ },
+ {
+  "contestantId": 8594299,
+  "cupsPlayed": {"3": 1}
+ },
+ {
+  "contestantId": 9202816,
+  "cupsPlayed": {"3": 1}
+ },
+ {
+  "contestantId": 9175280,
+  "cupsPlayed": {"7": 1}
+ },
+ {
+  "contestantId": 7201516,
+  "cupsPlayed": {"1": 1}
+ },
+ {
+  "contestantId": 8659059,
+  "cupsPlayed": {"3": 1}
+ },
+ {
+  "contestantId": 9179641,
+  "cupsPlayed": {"3": 1}
+ },
+ {
+  "contestantId": 7578398,
+  "cupsPlayed": {"3": 1}
+ },
+ {
+  "contestantId": 9172457,
+  "cupsPlayed": {"3": 1}
+ },
+ {
+  "contestantId": 7489508,
+  "cupsPlayed": {"3": 1}
+ },
+ {
+  "contestantId": 7987117,
+  "cupsPlayed": {"1": 1}
+ },
+ {
+  "contestantId": 8914055,
+  "cupsPlayed": {"3": 1}
+ },
+ {
+  "contestantId": 8920857,
+  "cupsPlayed": {"1": 1}
+ },
+ {
+  "contestantId": 8863616,
+  "cupsPlayed": {"7": 1}
+ },
+ {
+  "contestantId": 7547659,
+  "cupsPlayed": {"3": 1}
+ },
+ {
+  "contestantId": 9051228,
+  "cupsPlayed": {"3": 1}
+ },
+ {
+  "contestantId": 8972054,
+  "cupsPlayed": {"3": 1}
+ },
+ {
+  "contestantId": 7437569,
+  "cupsPlayed": {"1": 1}
+ },
+ {
+  "contestantId": 7640998,
+  "cupsPlayed": {"1": 1}
+ },
+ {
+  "contestantId": 8168301,
+  "cupsPlayed": {"1": 1}
+ },
+ {
+  "contestantId": 7429708,
+  "cupsPlayed": {"3": 1}
+ },
+ {
+  "contestantId": 9031856,
+  "cupsPlayed": {"3": 1}
+ },
+ {
+  "contestantId": 8566398,
+  "cupsPlayed": {"1": 1}
+ },
+ {
+  "contestantId": 8546302,
+  "cupsPlayed": {"7": 1}
+ },
+ {
+  "contestantId": 9013989,
+  "cupsPlayed": {"3": 1}
+ },
+ {
+  "contestantId": 9191520,
+  "cupsPlayed": {"3": 1}
+ },
+ {
+  "contestantId": 9029547,
+  "cupsPlayed": {"3": 1}
+ },
+ {
+  "contestantId": 7855467,
+  "cupsPlayed": {"1": 1}
+ },
+ {
+  "contestantId": 7092944,
+  "cupsPlayed": {"1": 1}
+ },
+ {
+  "contestantId": 7588531,
+  "cupsPlayed": {"7": 1}
+ },
+ {
+  "contestantId": 9021948,
+  "cupsPlayed": {"7": 1}
+ },
+ {
+  "contestantId": 9203055,
+  "cupsPlayed": {"3": 1}
+ },
+ {
+  "contestantId": 9198057,
+  "cupsPlayed": {"3": 1}
+ },
+ {
+  "contestantId": 9180764,
+  "cupsPlayed": {"3": 1}
+ },
+ {
+  "contestantId": 6333255,
+  "cupsPlayed": {"7": 1}
+ },
+ {
+  "contestantId": 8797699,
+  "cupsPlayed": {"1": 1}
+ },
+ {
+  "contestantId": 9053633,
+  "cupsPlayed": {"3": 1}
+ },
+ {
+  "contestantId": 7681199,
+  "cupsPlayed": {"7": 1}
+ },
+ {
+  "contestantId": 8382502,
+  "cupsPlayed": {"3": 1}
+ },
+ {
+  "contestantId": 7848598,
+  "cupsPlayed": {"1": 1}
+ },
+ {
+  "contestantId": 7934801,
+  "cupsPlayed": {"1": 1}
+ },
+ {
+  "contestantId": 8503708,
+  "cupsPlayed": {"3": 1}
+ },
+ {
+  "contestantId": 9113474,
+  "cupsPlayed": {"3": 1}
+ },
+ {
+  "contestantId": 8727124,
+  "cupsPlayed": {"3": 1}
+ },
+ {
+  "contestantId": 9042872,
+  "cupsPlayed": {"3": 1}
+ },
+ {
+  "contestantId": 8879894,
+  "cupsPlayed": {"7": 1}
+ },
+ {
+  "contestantId": 9060084,
+  "cupsPlayed": {"3": 1}
+ },
+ {
+  "contestantId": 9002958,
+  "cupsPlayed": {"3": 1}
+ },
+ {
+  "contestantId": 9197094,
+  "cupsPlayed": {"7": 2}
+ },
+ {
+  "contestantId": 7361849,
+  "cupsPlayed": {"1": 1}
+ },
+ {
+  "contestantId": 8796114,
+  "cupsPlayed": {"1": 1}
+ },
+ {
+  "contestantId": 8852818,
+  "cupsPlayed": {"1": 1}
+ },
+ {
+  "contestantId": 8716123,
+  "cupsPlayed": {"7": 2}
+ },
+ {
+  "contestantId": 6613187,
+  "cupsPlayed": {"1": 1}
+ },
+ {
+  "contestantId": 8845177,
+  "cupsPlayed": {"7": 1}
+ },
+ {
+  "contestantId": 8824113,
+  "cupsPlayed": {"3": 1}
+ },
+ {
+  "contestantId": 8825443,
+  "cupsPlayed": {"3": 1}
+ },
+ {
+  "contestantId": 8928792,
+  "cupsPlayed": {"1": 1}
+ },
+ {
+  "contestantId": 9014935,
+  "cupsPlayed": {"3": 1}
+ },
+ {
+  "contestantId": 8990932,
+  "cupsPlayed": {"1": 1}
+ },
+ {
+  "contestantId": 8881618,
+  "cupsPlayed": {"3": 1}
+ },
+ {
+  "contestantId": 9021840,
+  "cupsPlayed": {"3": 2}
+ },
+ {
+  "contestantId": 8932989,
+  "cupsPlayed": {"7": 1}
+ },
+ {
+  "contestantId": 8017495,
+  "cupsPlayed": {"3": 1}
+ },
+ {
+  "contestantId": 7944985,
+  "cupsPlayed": {"1": 1}
+ },
+ {
+  "contestantId": 8694598,
+  "cupsPlayed": {"3": 1}
+ },
+ {
+  "contestantId": 7954549,
+  "cupsPlayed": {"1": 1}
+ },
+ {
+  "contestantId": 9188398,
+  "cupsPlayed": {"7": 1}
+ },
+ {
+  "contestantId": 8341189,
+  "cupsPlayed": {"1": 1}
+ },
+ {
+  "contestantId": 9052447,
+  "cupsPlayed": {"7": 1}
+ },
+ {
+  "contestantId": 7999778,
+  "cupsPlayed": {"1": 1}
+ },
+ {
+  "contestantId": 9192528,
+  "cupsPlayed": {"3": 1}
+ },
+ {
+  "contestantId": 9053661,
+  "cupsPlayed": {"3": 1}
+ },
+ {
+  "contestantId": 8814573,
+  "cupsPlayed": {"7": 1}
+ },
+ {
+  "contestantId": 8835103,
+  "cupsPlayed": {"1": 1}
+ },
+ {
+  "contestantId": 8388360,
+  "cupsPlayed": {"1": 1}
+ },
+ {
+  "contestantId": 8881640,
+  "cupsPlayed": {"3": 1}
+ },
+ {
+  "contestantId": 8635294,
+  "cupsPlayed": {"3": 1}
+ },
+ {
+  "contestantId": 9010564,
+  "cupsPlayed": {"3": 1}
+ },
+ {
+  "contestantId": 9053212,
+  "cupsPlayed": {"3": 1}
+ },
+ {
+  "contestantId": 6474467,
+  "cupsPlayed": {"7": 1}
+ },
+ {
+  "contestantId": 7253200,
+  "cupsPlayed": {"7": 1}
+ },
+ {
+  "contestantId": 8333139,
+  "cupsPlayed": {"3": 2}
+ },
+ {
+  "contestantId": 8951563,
+  "cupsPlayed": {"3": 1}
+ },
+ {
+  "contestantId": 8566357,
+  "cupsPlayed": {"7": 1}
+ },
+ {
+  "contestantId": 8638202,
+  "cupsPlayed": {"3": 1}
+ },
+ {
+  "contestantId": 8347427,
+  "cupsPlayed": {"7": 1}
+ },
+ {
+  "contestantId": 8919899,
+  "cupsPlayed": {"7": 1}
+ },
+ {
+  "contestantId": 9192792,
+  "cupsPlayed": {"3": 1}
+ },
+ {
+  "contestantId": 7951699,
+  "cupsPlayed": {"7": 2}
+ },
+ {
+  "contestantId": 9104975,
+  "cupsPlayed": {"3": 1}
+ },
+ {
+  "contestantId": 8011973,
+  "cupsPlayed": {"1": 1}
+ },
+ {
+  "contestantId": 6448068,
+  "cupsPlayed": {"1": 1}
+ },
+ {
+  "contestantId": 9096055,
+  "cupsPlayed": {"3": 2}
+ },
+ {
+  "contestantId": 9158580,
+  "cupsPlayed": {"3": 1}
+ },
+ {
+  "contestantId": 8658584,
+  "cupsPlayed": {"7": 4}
+ },
+ {
+  "contestantId": 8905260,
+  "cupsPlayed": {"3": 2}
+ },
+ {
+  "contestantId": 9141919,
+  "cupsPlayed": {"3": 1}
+ },
+ {
+  "contestantId": 8580753,
+  "cupsPlayed": {"1": 1}
+ },
+ {
+  "contestantId": 9155199,
+  "cupsPlayed": {"3": 1}
+ },
+ {
+  "contestantId": 7949498,
+  "cupsPlayed": {"7": 1}
+ },
+ {
+  "contestantId": 8171999,
+  "cupsPlayed": {"1": 1}
+ },
+ {
+  "contestantId": 7693460,
+  "cupsPlayed": {"1": 1}
+ },
+ {
+  "contestantId": 8738193,
+  "cupsPlayed": {"3": 1}
+ },
+ {
+  "contestantId": 8217258,
+  "cupsPlayed": {"3": 1}
+ },
+ {
+  "contestantId": 8414160,
+  "cupsPlayed": {"7": 1}
+ },
+ {
+  "contestantId": 9052016,
+  "cupsPlayed": {"3": 1}
+ },
+ {
+  "contestantId": 8112240,
+  "cupsPlayed": {"1": 1}
+ },
+ {
+  "contestantId": 719263,
+  "cupsPlayed": {"3": 1}
+ },
+ {
+  "contestantId": 7811029,
+  "cupsPlayed": {"1": 1}
+ },
+ {
+  "contestantId": 8336861,
+  "cupsPlayed": {"1": 1}
+ },
+ {
+  "contestantId": 8639638,
+  "cupsPlayed": {"7": 2}
+ },
+ {
+  "contestantId": 9194730,
+  "cupsPlayed": {"3": 2}
+ },
+ {
+  "contestantId": 8287516,
+  "cupsPlayed": {"7": 2}
+ },
+ {
+  "contestantId": 8773166,
+  "cupsPlayed": {"3": 1}
+ },
+ {
+  "contestantId": 8958082,
+  "cupsPlayed": {"3": 1}
+ },
+ {
+  "contestantId": 7265654,
+  "cupsPlayed": {"7": 3}
+ },
+ {
+  "contestantId": 8102341,
+  "cupsPlayed": {"1": 1}
+ },
+ {
+  "contestantId": 8988837,
+  "cupsPlayed": {"1": 1}
+ },
+ {
+  "contestantId": 8932835,
+  "cupsPlayed": {"1": 1}
+ },
+ {
+  "contestantId": 7434579,
+  "cupsPlayed": {"1": 1}
+ },
+ {
+  "contestantId": 8348427,
+  "cupsPlayed": {"1": 1}
+ },
+ {
+  "contestantId": 8772681,
+  "cupsPlayed": {"1": 1}
+ },
+ {
+  "contestantId": 9193428,
+  "cupsPlayed": {"7": 1}
+ },
+ {
+  "contestantId": 8929143,
+  "cupsPlayed": {"3": 1}
+ },
+ {
+  "contestantId": 7663358,
+  "cupsPlayed": {"3": 1}
+ },
+ {
+  "contestantId": 9121139,
+  "cupsPlayed": {"3": 1}
+ },
+ {
+  "contestantId": 8921778,
+  "cupsPlayed": {"3": 1}
+ },
+ {
+  "contestantId": 8475761,
+  "cupsPlayed": {"1": 1}
+ },
+ {
+  "contestantId": 7456235,
+  "cupsPlayed": {"1": 1}
+ },
+ {
+  "contestantId": 9017148,
+  "cupsPlayed": {"1": 1}
+ },
+ {
+  "contestantId": 8946978,
+  "cupsPlayed": {"7": 1}
+ },
+ {
+  "contestantId": 9166281,
+  "cupsPlayed": {"1": 1}
+ },
+ {
+  "contestantId": 8886347,
+  "cupsPlayed": {"7": 1}
+ },
+ {
+  "contestantId": 8601866,
+  "cupsPlayed": {"1": 1}
+ },
+ {
+  "contestantId": 9167257,
+  "cupsPlayed": {"7": 1}
+ },
+ {
+  "contestantId": 8660865,
+  "cupsPlayed": {"1": 1}
+ },
+ {
+  "contestantId": 7824202,
+  "cupsPlayed": {"1": 1}
+ },
+ {
+  "contestantId": 8163386,
+  "cupsPlayed": {"1": 1}
+ },
+ {
+  "contestantId": 8952286,
+  "cupsPlayed": {"3": 1}
+ },
+ {
+  "contestantId": 8241063,
+  "cupsPlayed": {"7": 2}
+ },
+ {
+  "contestantId": 8878606,
+  "cupsPlayed": {"3": 1}
+ },
+ {
+  "contestantId": 9195856,
+  "cupsPlayed": {"3": 1}
+ },
+ {
+  "contestantId": 8259970,
+  "cupsPlayed": {"7": 1}
+ },
+ {
+  "contestantId": 9040077,
+  "cupsPlayed": {"7": 1}
+ },
+ {
+  "contestantId": 8987136,
+  "cupsPlayed": {"3": 1}
+ },
+ {
+  "contestantId": 7549654,
+  "cupsPlayed": {"1": 1}
+ },
+ {
+  "contestantId": 8920313,
+  "cupsPlayed": {"3": 1}
+ },
+ {
+  "contestantId": 8047291,
+  "cupsPlayed": {"3": 1}
+ },
+ {
+  "contestantId": 9074051,
+  "cupsPlayed": {"3": 1}
+ },
+ {
+  "contestantId": 6441443,
+  "cupsPlayed": {"1": 1}
+ },
+ {
+  "contestantId": 9102758,
+  "cupsPlayed": {"3": 1}
+ },
+ {
+  "contestantId": 9132024,
+  "cupsPlayed": {"1": 1}
+ },
+ {
+  "contestantId": 8009908,
+  "cupsPlayed": {"7": 1}
+ },
+ {
+  "contestantId": 9166261,
+  "cupsPlayed": {"1": 1}
+ },
+ {
+  "contestantId": 9023506,
+  "cupsPlayed": {"7": 3}
+ },
+ {
+  "contestantId": 7437519,
+  "cupsPlayed": {"3": 1}
+ },
+ {
+  "contestantId": 9166266,
+  "cupsPlayed": {"7": 1}
+ },
+ {
+  "contestantId": 7975501,
+  "cupsPlayed": {"3": 1}
+ },
+ {
+  "contestantId": 8979760,
+  "cupsPlayed": {"3": 1}
+ },
+ {
+  "contestantId": 8500853,
+  "cupsPlayed": {"3": 1}
+ },
+ {
+  "contestantId": 8138143,
+  "cupsPlayed": {"1": 1}
+ },
+ {
+  "contestantId": 8464772,
+  "cupsPlayed": {"7": 1}
+ },
+ {
+  "contestantId": 7433390,
+  "cupsPlayed": {"1": 1}
+ },
+ {
+  "contestantId": 849297,
+  "cupsPlayed": {"1": 1}
+ },
+ {
+  "contestantId": 7150547,
+  "cupsPlayed": {"7": 3}
+ },
+ {
+  "contestantId": 9160835,
+  "cupsPlayed": {"7": 1}
+ },
+ {
+  "contestantId": 8103387,
+  "cupsPlayed": {"7": 2}
+ },
+ {
+  "contestantId": 8519637,
+  "cupsPlayed": {"3": 1}
+ },
+ {
+  "contestantId": 9008766,
+  "cupsPlayed": {"7": 2}
+ },
+ {
+  "contestantId": 8782297,
+  "cupsPlayed": {"3": 1}
+ },
+ {
+  "contestantId": 8914934,
+  "cupsPlayed": {"3": 2}
+ },
+ {
+  "contestantId": 5022061,
+  "cupsPlayed": {"1": 1}
+ },
+ {
+  "contestantId": 9004163,
+  "cupsPlayed": {"1": 1}
+ },
+ {
+  "contestantId": 9153189,
+  "cupsPlayed": {"7": 1}
+ },
+ {
+  "contestantId": 7513552,
+  "cupsPlayed": {"3": 1}
+ },
+ {
+  "contestantId": 7514761,
+  "cupsPlayed": {"3": 1}
+ },
+ {
+  "contestantId": 8667453,
+  "cupsPlayed": {"7": 3}
+ },
+ {
+  "contestantId": 9064171,
+  "cupsPlayed": {"3": 1}
+ },
+ {
+  "contestantId": 9143027,
+  "cupsPlayed": {"7": 1}
+ },
+ {
+  "contestantId": 9187912,
+  "cupsPlayed": {"3": 1}
+ },
+ {
+  "contestantId": 8384971,
+  "cupsPlayed": {"7": 1}
+ },
+ {
+  "contestantId": 8737124,
+  "cupsPlayed": {"1": 1}
+ },
+ {
+  "contestantId": 8930596,
+  "cupsPlayed": {"7": 3}
+ },
+ {
+  "contestantId": 8313478,
+  "cupsPlayed": {"3": 1}
+ },
+ {
+  "contestantId": 8610288,
+  "cupsPlayed": {"1": 1}
+ },
+ {
+  "contestantId": 8804439,
+  "cupsPlayed": {"7": 1}
+ },
+ {
+  "contestantId": 7823648,
+  "cupsPlayed": {"7": 1}
+ },
+ {
+  "contestantId": 8553896,
+  "cupsPlayed": {"1": 1}
+ },
+ {
+  "contestantId": 7197511,
+  "cupsPlayed": {"7": 1}
+ },
+ {
+  "contestantId": 7768435,
+  "cupsPlayed": {"7": 1}
+ },
+ {
+  "contestantId": 9199909,
+  "cupsPlayed": {"3": 1}
+ },
+ {
+  "contestantId": 7887709,
+  "cupsPlayed": {"7": 2}
+ },
+ {
+  "contestantId": 6444517,
+  "cupsPlayed": {"1": 1}
+ },
+ {
+  "contestantId": 9024750,
+  "cupsPlayed": {"7": 2}
+ },
+ {
+  "contestantId": 8222531,
+  "cupsPlayed": {"3": 1}
+ },
+ {
+  "contestantId": 9014296,
+  "cupsPlayed": {"1": 1}
+ },
+ {
+  "contestantId": 8892826,
+  "cupsPlayed": {"7": 1}
+ },
+ {
+  "contestantId": 9165011,
+  "cupsPlayed": {"3": 1}
+ },
+ {
+  "contestantId": 7996867,
+  "cupsPlayed": {"3": 1}
+ },
+ {
+  "contestantId": 8453571,
+  "cupsPlayed": {"7": 1}
+ },
+ {
+  "contestantId": 8622365,
+  "cupsPlayed": {"7": 2}
+ },
+ {
+  "contestantId": 8796788,
+  "cupsPlayed": {"1": 1}
+ },
+ {
+  "contestantId": 7947370,
+  "cupsPlayed": {"7": 1}
+ },
+ {
+  "contestantId": 9199919,
+  "cupsPlayed": {"3": 1}
+ },
+ {
+  "contestantId": 7744232,
+  "cupsPlayed": {"1": 1}
+ },
+ {
+  "contestantId": 6953143,
+  "cupsPlayed": {"1": 1}
+ },
+ {
+  "contestantId": 8898257,
+  "cupsPlayed": {"7": 1}
+ },
+ {
+  "contestantId": 8371323,
+  "cupsPlayed": {"7": 1}
+ },
+ {
+  "contestantId": 9194243,
+  "cupsPlayed": {"3": 1}
+ },
+ {
+  "contestantId": 9092453,
+  "cupsPlayed": {"7": 1}
+ },
+ {
+  "contestantId": 8048521,
+  "cupsPlayed": {"1": 1}
+ },
+ {
+  "contestantId": 8759748,
+  "cupsPlayed": {"1": 1}
+ },
+ {
+  "contestantId": 8806148,
+  "cupsPlayed": {"3": 1}
+ },
+ {
+  "contestantId": 7260454,
+  "cupsPlayed": {"1": 1}
+ },
+ {
+  "contestantId": 9136913,
+  "cupsPlayed": {"3": 1}
+ },
+ {
+  "contestantId": 8687139,
+  "cupsPlayed": {"7": 1}
+ },
+ {
+  "contestantId": 9164398,
+  "cupsPlayed": {"7": 1}
+ },
+ {
+  "contestantId": 9141396,
+  "cupsPlayed": {"3": 1}
+ },
+ {
+  "contestantId": 8060524,
+  "cupsPlayed": {"1": 1}
+ },
+ {
+  "contestantId": 8984727,
+  "cupsPlayed": {"3": 1}
+ },
+ {
+  "contestantId": 7528103,
+  "cupsPlayed": {"7": 1}
+ },
+ {
+  "contestantId": 8611603,
+  "cupsPlayed": {"3": 1}
+ },
+ {
+  "contestantId": 9194113,
+  "cupsPlayed": {"3": 1}
+ },
+ {
+  "contestantId": 8997908,
+  "cupsPlayed": {"3": 1}
+ },
+ {
+  "contestantId": 8416604,
+  "cupsPlayed": {"7": 1}
+ },
+ {
+  "contestantId": 7131154,
+  "cupsPlayed": {"7": 3}
+ },
+ {
+  "contestantId": 9141282,
+  "cupsPlayed": {"3": 1}
+ },
+ {
+  "contestantId": 9175737,
+  "cupsPlayed": {"3": 1}
+ },
+ {
+  "contestantId": 8502052,
+  "cupsPlayed": {"3": 2}
+ },
+ {
+  "contestantId": 7829284,
+  "cupsPlayed": {"3": 1}
+ },
+ {
+  "contestantId": 8638076,
+  "cupsPlayed": {"3": 2}
+ },
+ {
+  "contestantId": 7735310,
+  "cupsPlayed": {"1": 1}
+ },
+ {
+  "contestantId": 8818472,
+  "cupsPlayed": {"3": 1}
+ },
+ {
+  "contestantId": 8110578,
+  "cupsPlayed": {"1": 1}
+ },
+ {
+  "contestantId": 7474173,
+  "cupsPlayed": {"7": 3}
+ },
+ {
+  "contestantId": 8326257,
+  "cupsPlayed": {"3": 2}
+ },
+ {
+  "contestantId": 8121556,
+  "cupsPlayed": {"7": 1}
+ },
+ {
+  "contestantId": 8288096,
+  "cupsPlayed": {"7": 2}
+ },
+ {
+  "contestantId": 9109431,
+  "cupsPlayed": {"7": 1}
+ },
+ {
+  "contestantId": 8818384,
+  "cupsPlayed": {"7": 1}
+ },
+ {
+  "contestantId": 8897899,
+  "cupsPlayed": {"1": 1}
+ },
+ {
+  "contestantId": 7595760,
+  "cupsPlayed": {"7": 2}
+ },
+ {
+  "contestantId": 8106075,
+  "cupsPlayed": {"7": 1}
+ },
+ {
+  "contestantId": 8336024,
+  "cupsPlayed": {"3": 1}
+ },
+ {
+  "contestantId": 8412225,
+  "cupsPlayed": {"1": 1}
+ },
+ {
+  "contestantId": 8844649,
+  "cupsPlayed": {"7": 1}
+ },
+ {
+  "contestantId": 8914957,
+  "cupsPlayed": {"1": 1}
+ },
+ {
+  "contestantId": 8950736,
+  "cupsPlayed": {"7": 4}
+ },
+ {
+  "contestantId": 9194257,
+  "cupsPlayed": {"3": 1}
+ },
+ {
+  "contestantId": 8094210,
+  "cupsPlayed": {"1": 1}
+ },
+ {
+  "contestantId": 9199964,
+  "cupsPlayed": {"3": 1}
+ },
+ {
+  "contestantId": 8174695,
+  "cupsPlayed": {"7": 1}
+ },
+ {
+  "contestantId": 8176631,
+  "cupsPlayed": {"3": 1}
+ },
+ {
+  "contestantId": 9012193,
+  "cupsPlayed": {"1": 1}
+ },
+ {
+  "contestantId": 6001262,
+  "cupsPlayed": {"1": 1}
+ },
+ {
+  "contestantId": 8563540,
+  "cupsPlayed": {"7": 1}
+ },
+ {
+  "contestantId": 8294522,
+  "cupsPlayed": {"3": 1}
+ },
+ {
+  "contestantId": 7199860,
+  "cupsPlayed": {"7": 1}
+ },
+ {
+  "contestantId": 8926924,
+  "cupsPlayed": {"3": 1}
+ },
+ {
+  "contestantId": 8757455,
+  "cupsPlayed": {"7": 1}
+ },
+ {
+  "contestantId": 9009902,
+  "cupsPlayed": {"3": 1}
+ },
+ {
+  "contestantId": 7085774,
+  "cupsPlayed": {"7": 2}
+ },
+ {
+  "contestantId": 7751914,
+  "cupsPlayed": {"7": 2}
+ },
+ {
+  "contestantId": 7508624,
+  "cupsPlayed": {"3": 1}
+ },
+ {
+  "contestantId": 8186786,
+  "cupsPlayed": {"3": 1}
+ },
+ {
+  "contestantId": 8935587,
+  "cupsPlayed": {"7": 1}
+ },
+ {
+  "contestantId": 9130378,
+  "cupsPlayed": {"3": 1}
+ },
+ {
+  "contestantId": 7182075,
+  "cupsPlayed": {"7": 1}
+ },
+ {
+  "contestantId": 8989041,
+  "cupsPlayed": {"1": 1}
+ },
+ {
+  "contestantId": 9196446,
+  "cupsPlayed": {"3": 1}
+ },
+ {
+  "contestantId": 6128137,
+  "cupsPlayed": {"1": 1}
+ },
+ {
+  "contestantId": 9194026,
+  "cupsPlayed": {"3": 1}
+ },
+ {
+  "contestantId": 8929192,
+  "cupsPlayed": {"3": 1}
+ },
+ {
+  "contestantId": 9198886,
+  "cupsPlayed": {"3": 1}
+ },
+ {
+  "contestantId": 9156847,
+  "cupsPlayed": {"3": 1}
+ },
+ {
+  "contestantId": 9097940,
+  "cupsPlayed": {"1": 1}
+ },
+ {
+  "contestantId": 8771433,
+  "cupsPlayed": {"1": 1}
+ },
+ {
+  "contestantId": 8171071,
+  "cupsPlayed": {"3": 1}
+ },
+ {
+  "contestantId": 7960864,
+  "cupsPlayed": {"3": 1}
+ },
+ {
+  "contestantId": 8246560,
+  "cupsPlayed": {"1": 1}
+ },
+ {
+  "contestantId": 7935789,
+  "cupsPlayed": {"7": 1}
+ },
+ {
+  "contestantId": 9195129,
+  "cupsPlayed": {"3": 1}
+ },
+ {
+  "contestantId": 9022276,
+  "cupsPlayed": {"1": 1}
+ },
+ {
+  "contestantId": 6642240,
+  "cupsPlayed": {"1": 1}
+ },
+ {
+  "contestantId": 9199844,
+  "cupsPlayed": {"3": 1}
+ },
+ {
+  "contestantId": 9026632,
+  "cupsPlayed": {"3": 1}
+ },
+ {
+  "contestantId": 7944366,
+  "cupsPlayed": {"7": 1}
+ },
+ {
+  "contestantId": 7566922,
+  "cupsPlayed": {"7": 2}
+ },
+ {
+  "contestantId": 8562435,
+  "cupsPlayed": {"1": 1}
+ },
+ {
+  "contestantId": 8727726,
+  "cupsPlayed": {"1": 1}
+ },
+ {
+  "contestantId": 8622307,
+  "cupsPlayed": {"1": 1}
+ },
+ {
+  "contestantId": 8865304,
+  "cupsPlayed": {"7": 1}
+ },
+ {
+  "contestantId": 8737528,
+  "cupsPlayed": {"3": 1}
+ },
+ {
+  "contestantId": 8795511,
+  "cupsPlayed": {"3": 1}
+ },
+ {
+  "contestantId": 9164464,
+  "cupsPlayed": {"3": 1}
+ },
+ {
+  "contestantId": 8550454,
+  "cupsPlayed": {"3": 1}
+ },
+ {
+  "contestantId": 8782325,
+  "cupsPlayed": {"7": 2}
+ },
+ {
+  "contestantId": 8111745,
+  "cupsPlayed": {"1": 1}
+ },
+ {
+  "contestantId": 8934798,
+  "cupsPlayed": {"1": 1}
+ },
+ {
+  "contestantId": 9061733,
+  "cupsPlayed": {"3": 1}
+ },
+ {
+  "contestantId": 8173394,
+  "cupsPlayed": {"1": 1}
+ },
+ {
+  "contestantId": 6698386,
+  "cupsPlayed": {"1": 1}
+ },
+ {
+  "contestantId": 8153582,
+  "cupsPlayed": {"3": 1}
+ },
+ {
+  "contestantId": 9108548,
+  "cupsPlayed": {"3": 2}
+ },
+ {
+  "contestantId": 8384461,
+  "cupsPlayed": {"1": 1}
+ },
+ {
+  "contestantId": 8600401,
+  "cupsPlayed": {"1": 1}
+ },
+ {
+  "contestantId": 9183048,
+  "cupsPlayed": {"1": 1}
+ },
+ {
+  "contestantId": 8629387,
+  "cupsPlayed": {"1": 1}
+ },
+ {
+  "contestantId": 7897320,
+  "cupsPlayed": {"7": 2}
+ },
+ {
+  "contestantId": 8950813,
+  "cupsPlayed": {"1": 1}
+ },
+ {
+  "contestantId": 8993727,
+  "cupsPlayed": {"3": 2}
+ },
+ {
+  "contestantId": 9196239,
+  "cupsPlayed": {"3": 1}
+ },
+ {
+  "contestantId": 9131890,
+  "cupsPlayed": {"3": 1}
+ },
+ {
+  "contestantId": 9073849,
+  "cupsPlayed": {"7": 2}
+ },
+ {
+  "contestantId": 9197585,
+  "cupsPlayed": {"3": 1}
+ },
+ {
+  "contestantId": 8501061,
+  "cupsPlayed": {"3": 2}
+ },
+ {
+  "contestantId": 8432016,
+  "cupsPlayed": {"1": 1}
+ },
+ {
+  "contestantId": 8809743,
+  "cupsPlayed": {"7": 1}
+ },
+ {
+  "contestantId": 8834801,
+  "cupsPlayed": {"3": 1}
+ },
+ {
+  "contestantId": 7680957,
+  "cupsPlayed": {"7": 1}
+ },
+ {
+  "contestantId": 8176670,
+  "cupsPlayed": {"1": 1}
+ },
+ {
+  "contestantId": 7953099,
+  "cupsPlayed": {"1": 1}
+ },
+ {
+  "contestantId": 9165411,
+  "cupsPlayed": {"3": 1}
+ },
+ {
+  "contestantId": 9014696,
+  "cupsPlayed": {"1": 1}
+ },
+ {
+  "contestantId": 8571233,
+  "cupsPlayed": {"3": 1}
+ },
+ {
+  "contestantId": 8063825,
+  "cupsPlayed": {"1": 1}
+ },
+ {
+  "contestantId": 8874226,
+  "cupsPlayed": {"1": 1}
+ },
+ {
+  "contestantId": 8466236,
+  "cupsPlayed": {"3": 1}
+ },
+ {
+  "contestantId": 6573553,
+  "cupsPlayed": {"1": 1}
+ },
+ {
+  "contestantId": 9184391,
+  "cupsPlayed": {"3": 1}
+ },
+ {
+  "contestantId": 9198307,
+  "cupsPlayed": {"3": 1}
+ },
+ {
+  "contestantId": 7316137,
+  "cupsPlayed": {"1": 1}
+ }
+]
