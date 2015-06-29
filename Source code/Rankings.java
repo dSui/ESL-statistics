@@ -1,5 +1,5 @@
 /*
- * Made by Piet Smet (2015)
+ * Made by Piet S. (2015)
  * 
  * Info: Retrieves the latest World of Tank results and returns statistics from participants based on team size.
  * 
