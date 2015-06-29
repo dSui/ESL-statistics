@@ -83,7 +83,7 @@ public class Rankings {
 					
 					for (int i = 0; i < rankingsArrayJson.length(); i++) {
 						
-						if (!(rankingsArrayJson.get(i) instanceof JSONObject)) // noticed in other game rankings that certain cups are not always played and then ranking is null
+						if (!(rankingsArrayJson.get(i) instanceof JSONObject)) // cant properly process this, skip it
 							continue;
 						JSONObject rankInfo = rankingsArrayJson.getJSONObject(i);
 						
